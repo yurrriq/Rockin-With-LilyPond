@@ -8,7 +8,7 @@
   - [Notes](chapters/fundamentals/notes/README.md)
   - [Chords](chapters/fundamentals/chords/README.md)
   - [Polyphony](chapters/fundamentals/polyphony/README.md)
-- [Lalily](chapters/lalily/README.md)
+- [GridLY](chapters/GridLY/README.md)
 - [Writing Parts](chapters/writing-parts/README.md)
   - [Bass](chapters/writing-parts/bass/README.md)
     - [Tabs](chapters/writing-parts/bass/standard-notation/tabs.md)
