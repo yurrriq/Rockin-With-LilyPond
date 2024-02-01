@@ -35,6 +35,7 @@
 
           nativeBuildInputs = with pkgs; [
             mdbook
+            mdbook-katex
           ];
         };
 
